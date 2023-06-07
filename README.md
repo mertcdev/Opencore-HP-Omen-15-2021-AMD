@@ -2,8 +2,8 @@
 Opencore config files for HP Omen 15 2021 5800H
 
 
-# Opencore-HP-Omen-15-2020
-## Working with macOS 12.1 (21C52)
+# Opencore-HP-Omen-15-2021
+## Working with macOS 12.6.5
 Opencore config files for HP Omen 15 2021 AMD Variant
 
 Battery life the best I can get for this machine is around 2h. (dGPU disable with SSDT method cause bootloop)
