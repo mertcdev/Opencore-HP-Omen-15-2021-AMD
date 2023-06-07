@@ -1,8 +1,4 @@
 # Opencore-HP-Omen-15-2021-AMD
-Opencore config files for HP Omen 15 2021 5800H
-
-
-# Opencore-HP-Omen-15-2021
 ## Working with macOS 12.6.5
 Opencore config files for HP Omen 15 2021 AMD Variant
 
