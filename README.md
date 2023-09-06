@@ -18,7 +18,7 @@ Battery life the best I can get for this machine is around 2h. (dGPU disable wit
 
 ## What's working/not working
 * Everything works except video output since all video ports are connected to nVidia.
-* Built-in Mic and 3.5mm jack microphone output not working. (General issue with AppleALC.)
+* Built-in Mic works with AMDMicrophone.kext and 3.5mm jack microphone output not working. (General issue with AppleALC.)
 
 ## CinebenchR23
 ![Image of Cinebench]
